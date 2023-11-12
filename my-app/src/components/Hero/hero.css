@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  padding-top: 40px;
+  font-size: 28px;
+  color: magenta;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 20px;
+  color: magenta;
+}
+
+.travel-cards {
+  display: inline;
+}
+
+.travelblog-card {
+  margin: 20px;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.travelblog-card img {
+  margin: 40px;
+}
